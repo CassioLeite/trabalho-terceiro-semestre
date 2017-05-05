@@ -1,0 +1,5 @@
+c:\users\kacat\onedrive\documentos\visual studio 2015\Projects\CRUD\DAL\bin\Debug\DAL.dll
+c:\users\kacat\onedrive\documentos\visual studio 2015\Projects\CRUD\DAL\bin\Debug\DAL.pdb
+c:\users\kacat\onedrive\documentos\visual studio 2015\Projects\CRUD\DAL\obj\Debug\DAL.dll
+c:\users\kacat\onedrive\documentos\visual studio 2015\Projects\CRUD\DAL\obj\Debug\DAL.pdb
+c:\users\kacat\onedrive\documentos\visual studio 2015\Projects\CRUD\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

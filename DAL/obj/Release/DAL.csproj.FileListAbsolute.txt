@@ -1,0 +1,4 @@
+C:\Users\kacat\OneDrive\Documentos\Visual Studio 2015\Projects\CRUD\DAL\bin\Release\DAL.dll
+C:\Users\kacat\OneDrive\Documentos\Visual Studio 2015\Projects\CRUD\DAL\bin\Release\DAL.pdb
+C:\Users\kacat\OneDrive\Documentos\Visual Studio 2015\Projects\CRUD\DAL\obj\Release\DAL.dll
+C:\Users\kacat\OneDrive\Documentos\Visual Studio 2015\Projects\CRUD\DAL\obj\Release\DAL.pdb
